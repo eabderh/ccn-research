@@ -1,0 +1,29 @@
+
+# file itself
+#.gitignore
+
+# network
+.nfs*
+
+# c
+*.o
+*.a
+*.so
+
+# vim session
+.*.vs
+
+# swap files
+.*.swp
+
+# network files
+**/.netrwhist
+
+# additional
+**.tgz
+distillery-ccnx-absinthe-source-current
+
+
+
+
+
